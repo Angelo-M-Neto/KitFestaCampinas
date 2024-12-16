@@ -127,13 +127,18 @@ footer {
 }
 
 .journey {
-   display: flex;
-    margin-left: 10px;
-    border-style: groove;
+    display: flex;
+    flex-flow: column wrap;
+    margin-left: 5px;
+    border-style: none;
+}
+
+#block_content{
+    display: flex;
 }
 
 .luzia-img {
     width: 500px;
     height: 510px;
-    padding-left;
+    padding-left: 10px;
 }
