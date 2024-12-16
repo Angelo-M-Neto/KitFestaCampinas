@@ -130,7 +130,7 @@ footer {
     display: flex;
     flex-flow: column wrap;
     margin-left: 5px;
-    border-style: none;
+    border-style: groove;
 }
 
 #block_content{
