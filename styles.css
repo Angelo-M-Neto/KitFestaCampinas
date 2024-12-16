@@ -127,7 +127,7 @@ footer {
 }
 
 .journey {
-   padding-right;
+   display: flex;
 
 }
 
