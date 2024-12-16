@@ -127,8 +127,8 @@ footer {
 }
 
 .journey {
-   display: flex
-
+   display: flex;
+    margin: 5px;
 }
 
 .luzia-img {
